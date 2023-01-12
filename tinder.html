@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>tinder</title>
+    <script src="tinder.js"></script>
+    <link rel="stylesheet" href="tinder.css" />
+  </head>
+
+  <body onload="init();">
+    <section class="grid-1">
+
+      <!-- header -->
+      <div class="item-1">
+        <h1>Tinder</h2>
+      </div>
+
+      <!-- sidebar -->
+      <div class="item-3">
+        <div class="slidecontainer">
+            <h4>Altura</h4> <span id="sliderAlturaValor"></span>
+            <input type="range" min="100" max="220" value="170" class="slider" id="sliderAltura" oninput="update('sliderAltura');"> 
+        </div>
+
+        <div class="slidecontainer">
+            <h4>Edad</h4> <span id="sliderEdadValor"></span>
+            <input type="range" min="18" max="100" value="25" class="slider" id="sliderEdad" oninput="update('sliderEdad');"> 
+        </div>
+
+        <div class="slidecontainer">
+            <h4>Sexo</h4>
+            <input type="radio" id="radioSexoHombre" name="radioSexo" onclick="update('hombre');" checked="checked">
+            <label for="radioSexoHombre">Hombre</label><br>
+            <input type="radio" id="radioSexoMujer" name="radioSexo" onclick="update('mujer');">
+            <label for="radioSexoMujer">Mujer</label><br>
+        </div>
+
+    </div>
+
+    <div id="cards" class="cards item-2">
+          <!-- Example body -->
+        <!-- <div class="card">
+          <h2 class="card-title">name</h2>
+          <img
+            src="resources/avatar-2224430bce96f2713a21c30339b398cf.jpg"
+            alt="A"
+          />
+          <p class="card-data">
+            <b>Edad</b> : 23 <br />
+            <b>Sexo</b> : Hombre <br />
+            <b>Gustos</b> : perros <br />
+            <b>Altura</b> : 180 <br />
+          </p>
+        </div> -->
+    </div>
+        
+    <!-- footer -->
+    <div class="item-4"> footer
+    </div>
+    
+    </section>
+
+    <!-- 
+        https://webdesign.tutsplus.com/series/understanding-the-css-grid-layout-module--cms-1079
+        https://webdesign.tutsplus.com/tutorials/css-grid-layout-going-responsive--cms-27270
+        https://freefrontend.com/css-cards/
+        https://codepen.io/luanmanara/pen/poyLbWx
+        https://www.w3schools.com/howto/howto_js_rangeslider.asp
+        https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_radio
+        http://jsfiddle.net/AWRAW/
+        https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/
+    -->
+  </body>
+</html>

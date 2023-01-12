@@ -1,0 +1,144 @@
+{
+    "data" : [
+        {
+           "nombre": "Juan Palomo",
+           "altura" : 180,
+           "edad": 32,
+           "sexo": "hombre",
+           "gustos": ["perros", "gatos"],
+           "foto" : "resources\\avatar-2cd7b7ad3e02524c1aa6971346d858d0.jpg"
+        }
+        ,{
+            "nombre": "Mara Fisher",
+            "altura" : 158,
+            "edad": 34,
+            "sexo": "mujer",
+            "gustos": ["pecez", "pajaros"],
+            "foto" : "resources\\avatar-3a7e56178b49d3293b937eca150fbccc.jpg"
+         }
+        ,{
+            "nombre": "Rubius Nordicus",
+            "altura" : 188,
+            "edad": 37,
+            "sexo": "hombre",
+            "gustos": ["palos", "hogueras"],
+            "foto" : "resources\\avatar-4d37f4ea2842c43528ab4ff83498f756.jpg"
+         }
+         ,{
+            "nombre": "Elisa Beni",
+            "altura" : 155,
+            "edad": 32,
+            "sexo": "mujer",
+            "gustos": ["agua", "fuego"],
+            "foto" : "resources\\avatar-8d8c9ec15fef816bbd03b578808f5802.jpg"
+         }
+         ,{
+            "nombre": "Lupita Cagona",
+            "altura" : 166,
+            "edad": 30,
+            "sexo": "mujer",
+            "gustos": ["disney", "muffings"],
+            "foto" : "resources\\avatar-30c0c0ab370c4babc2d91c52803fba16.jpg"
+         }
+         ,{
+            "nombre": "Anastasia Pavlova",
+            "altura" : 173,
+            "edad": 27,
+            "sexo": "mujer",
+            "gustos": ["flores", "pintura"],
+            "foto" : "resources\\avatar-67e7868d6213fc48979cca70a11c1246.jpg"
+         }
+         ,{
+            "nombre": "Colin Faraway",
+            "altura" : 177,
+            "edad": 33,
+            "sexo": "hombre",
+            "gustos": ["caballos", "hachas"],
+            "foto" : "resources\\avatar-328b87ab7da652e8e4c65acbe49798fa.jpg"
+         }
+         ,{
+            "nombre": "Jeremy Jeremiah",
+            "altura" : 181,
+            "edad": 34,
+            "sexo": "hombre",
+            "gustos": ["luz", "espejos"],
+            "foto" : "resources\\avatar-1023a2d241503f183876a44378078f12.jpg"
+         }
+         ,{
+            "nombre": "Park Yu-In",
+            "altura" : 162,
+            "edad": 45,
+            "sexo": "hombre",
+            "gustos": ["boniatos", "kpop"],
+            "foto" : "resources\\avatar-1717a96db75d5d036b468a2754d88f9e.jpg"
+         }
+         ,{
+            "nombre": "Bobby Finisher",
+            "altura" : 178,
+            "edad": 31,
+            "sexo": "hombre",
+            "gustos": ["ajedrez", "bollicao"],
+            "foto" : "resources\\avatar-2224430bce96f2713a21c30339b398cf.jpg"
+         }
+         ,{
+            "nombre": "Laurence O'Doherty",
+            "altura" : 174,
+            "edad": 27,
+            "sexo": "mujer",
+            "gustos": ["El color azul", "plantas"],
+            "foto" : "resources\\avatar-b6a4c43b8bd1e233af7d05ab37c9d166.jpg"
+         }
+         ,{
+            "nombre": "Fēn Xiaouyu",
+            "altura" : 161,
+            "edad": 32,
+            "sexo": "mujer",
+            "gustos": ["Mosaicos", "Jugar al go"],
+            "foto" : "resources\\avatar-b7f260066a30548d86927e27483e69b9.jpg"
+         }
+         ,{
+            "nombre": "Amanda Chrissman",
+            "altura" : 151,
+            "edad": 84,
+            "sexo": "mujer",
+            "gustos": ["Pasear", "Tomar el sol"],
+            "foto" : "resources\\avatar-b50bccdf8bd5e1f0a01ce926fdd88ae1.jpg"
+         }
+         ,{
+            "nombre": "Himari Kanagawa",
+            "altura" : 163,
+            "edad": 30,
+            "sexo": "mujer",
+            "gustos": ["Shogi", "Dim Sun"],
+            "foto" : "resources\\avatar-be5766db46b3207336939af827701f11.jpg"
+         }
+         ,{
+            "nombre": "Ali Uly",
+            "altura" : 168,
+            "edad": 32,
+            "sexo": "mujer",
+            "gustos": ["Acuarela", "Acuarios"],
+            "foto" : "resources\\avatar-dac18fa5139db2e58b4f98d1e90a9c15.jpg"
+         }
+         , {
+            "nombre": "Lisbeth Anderson",
+            "altura" : 179,
+            "edad": 42,
+            "sexo": "mujer",
+            "gustos": ["Money", "Money"],
+            "foto" : "resources\\avatar-ec576d8f1e9fd174cebccb93a173223c.jpg"
+         }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
